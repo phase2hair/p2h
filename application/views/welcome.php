@@ -230,8 +230,8 @@ function myFunction() {
 <!-- /.center -->
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=assets_url()?>js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=assets_url()?>js/bootstrap.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
 </body>
 </html>
