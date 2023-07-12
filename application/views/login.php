@@ -7,10 +7,10 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
-  <link rel="stylesheet" href="<?=assets_url()?>css/bootstrap.min.css">
+  <link rel="stylesheet" href="<?=site_url()?>/assets/css/bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<?=assets_url()?>css/AdminLTE.min.css">
-  <link rel="stylesheet" href="<?=assets_url()?>fonts/font-awesome.min.css">
+  <link rel="stylesheet" href="<?=site_url()?>/assets/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="<?=site_url()?>/assets/fonts/font-awesome.min.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,7 +39,7 @@
   <div class="lockscreen-item" style="margin-top: 40px;">
     <!-- lockscreen image -->
     <div class="lockscreen-image">
-      <img src="<?=assets_url()?>img/avatar2.png" alt="User Image">
+      <img src="<?=site_url()?>/assets/img/avatar2.png" alt="User Image">
     </div>
     <!-- /.lockscreen-image -->
 
@@ -73,8 +73,8 @@
 <!-- /.center -->
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=assets_url()?>js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=assets_url()?>js/bootstrap.min.js"></script>
+<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
 </body>
 </html>
