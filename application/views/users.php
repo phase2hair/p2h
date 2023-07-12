@@ -139,13 +139,13 @@
 <!-- ./wrapper -->
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=assets_url()?>js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=assets_url()?>js/bootstrap.min.js"></script>
+<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <!-- AdminLTE App -->
-<script src="<?=assets_url()?>js/app.min.js"></script>
+<script src="<?=site_url()?>/assets/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<?=assets_url()?>js/demo.js"></script>
+<script src="<?=site_url()?>/assets/js/demo.js"></script>
 </body>
 </html>
