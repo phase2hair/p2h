@@ -1,0 +1,54 @@
+
+
+[]      MAIN SCREEN
+[]          Register New Client
+[]              Validation Rules
+[]          Log Existing Client
+[]          Edit And Save Existing Client
+[]              Validation Rules
+[]              All Buttons
+            
+        
+[]      ADMIN SCREEN
+[]          Register New Client
+[]              Validation Rules
+[]          Check In Existing Client
+[]          Checkout Client
+[]          Delete client
+[]          Search Feature
+[]          Treatment Popup Button
+[]          Edit Existing Client
+[]              Validation Rules
+[]              All Buttons
+[]              Add A Photo
+[]              Total Visits Function
+[]              Last Edit Function
+[]              Last Visit Function
+        
+        
+[]      STYLIST SCREEN
+[]              Add Stylist
+[]                  Validation Rules
+[]              Edit And Save Stylist
+[]                  Validation Rules
+
+
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]

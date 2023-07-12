@@ -1,0 +1,4 @@
+[29-Nov-2018 18:29:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/theeasy1/public_html/p2h/application/views/dash.php on line 155
+[08-Dec-2020 12:18:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/clienthair/public_html/p2h/system/libraries/Image_lib.php on line 1466
+[08-Dec-2020 12:20:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/clienthair/public_html/p2h/system/libraries/Image_lib.php on line 1466
+[28-Sep-2021 11:02:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/clienthair/public_html/p2h/system/libraries/Image_lib.php on line 1466

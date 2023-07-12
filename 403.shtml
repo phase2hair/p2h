@@ -1,0 +1,14 @@
+Hello, <b>(<!--#echo var="REMOTE_ADDR" -->)</b><br>
+<br>
+This webpage is locked down so that only the business in <br>
+question can access it.
+<br>
+<br>
+If this is an error, please contact Lee directly on <br>
+07464 100 600 to rectify this issue.<br>
+
+<img src="https://westore-ministorage.com/wp-content/uploads/2018/06/prohib.jpg">
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+--> 

@@ -1,0 +1,6 @@
+user-agent: *
+Disallow: /*
+Disallow: /application/
+Disallow: /assets/
+Disallow: /system/
+Disallow: /tests/
