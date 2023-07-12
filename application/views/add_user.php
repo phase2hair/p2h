@@ -40,7 +40,7 @@
     <!--    <small>Stylists Management</small>-->
     <!--  </h1>-->
     <!--  <ol class="breadcrumb">-->
-    <!--    <li><a href="<?=assets_url()?>admin/dashboard"><i class="fas fa-tachometer-alt fa-lg"></i> Dashboard Home</a></li>-->
+    <!--    <li><a href="<?=site_url()?>admin/dashboard"><i class="fas fa-tachometer-alt fa-lg"></i> Dashboard Home</a></li>-->
     <!--    <li class="active">New Stylists</li>-->
     <!--  </ol>-->
     <!--</section>-->
@@ -49,25 +49,25 @@
     <section class="content">
 
 
-                    <a  href="<?=assets_url()?>admin/dashboard" class="btn btn-warning">DASHBOARD</a>
+                    <a  href="<?=site_url()?>admin/dashboard" class="btn btn-warning">DASHBOARD</a>
                     &nbsp&nbsp
                 
-                    <a  href="<?=assets_url()?>admin/stylist-records" class="btn btn-success">STYLIST RECORDS</a>
+                    <a  href="<?=site_url()?>admin/stylist-records" class="btn btn-success">STYLIST RECORDS</a>
                     &nbsp&nbsp
                 
-                    <a  href="<?=assets_url()?>home/register_new_client" class="btn btn-primary">REGISTER A CLIENT</a>
+                    <a  href="<?=site_url()?>home/register_new_client" class="btn btn-primary">REGISTER A CLIENT</a>
                     &nbsp&nbsp
                 
                 
-                    <a  href="<?=assets_url()?>admin/dashboard" class="btn btn-danger" disabled>BOOK A CLIENT - Disabled</a>
+                    <a  href="<?=site_url()?>admin/dashboard" class="btn btn-danger" disabled>BOOK A CLIENT - Disabled</a>
                     &nbsp&nbsp
                 
                 <!--
-                    <a  href="<?=assets_url()?>admin/dashboard" class="btn btn-default" disabled>Beauty & Theorpy - Disabled</a>
+                    <a  href="<?=site_url()?>admin/dashboard" class="btn btn-default" disabled>Beauty & Theorpy - Disabled</a>
                     &nbsp&nbsp
                 -->
                 <!--    
-                    <a  href="<?=assets_url()?>admin/dashboard" class="btn btn-info" disabled>Tanning - Disabled</a>
+                    <a  href="<?=site_url()?>admin/dashboard" class="btn btn-info" disabled>Tanning - Disabled</a>
                     &nbsp&nbsp
                     
                     stylist-records
