@@ -8,7 +8,7 @@ $config['base_url'] = "https://phase2hair.azurewebsites.net/";
 
 $config['index_page'] = '';
 
-$config['uri_protocol']	= 'AUTO';
+$config['uri_protocol']	= 'PATH_INFO';
 
 $config['url_suffix'] = '';
 
