@@ -1,7 +1,7 @@
 <?php $this->load->view('header')?>
 
 <?php 
-$bg1=assets_url().'img/mar.jpg';
+$bg1=site_url().'assets/img/mar.jpg';
 
 $page = $_SERVER['PHP_SELF'];
 $sec = "30";
@@ -245,17 +245,17 @@ $sec = "30";
 
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=assets_url()?>js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=assets_url()?>js/bootstrap.min.js"></script>
+<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <!-- AdminLTE App -->
-<script src="<?=assets_url()?>js/datepicker/bootstrap-datepicker.js"></script>
-<script src="<?=assets_url()?>js/app.min.js"></script>
+<script src="<?=site_url()?>/assets/js/datepicker/bootstrap-datepicker.js"></script>
+<script src="<?=site_url()?>/assets/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<?=assets_url()?>jquery.inputmask.js"></script>
-<script src="<?=assets_url()?>js/demo.js"></script>
-<script type="text/javascript" src="<?=assets_url()?>bootstrap-clockpicker.min.js"></script>
+<script src="<?=site_url()?>/assets/jquery.inputmask.js"></script>
+<script src="<?=site_url()?>/assets/js/demo.js"></script>
+<script type="text/javascript" src="<?=site_url()?>/assets/bootstrap-clockpicker.min.js"></script>
 <script type="text/javascript">
     $('.clockpicker').clockpicker({
       donetext: 'Done'
