@@ -11,7 +11,7 @@ $config['assets_url'] = "https://phase2hair.azurewebsites.net";
 
 $config['index_page'] = '';
 
-$config['uri_protocol']	= 'ORIG_PATH_INFO';
+$config['uri_protocol']	= 'AUTO';
 
 $config['url_suffix'] = '';
 
