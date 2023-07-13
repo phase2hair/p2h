@@ -7,16 +7,16 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/AdminLTE.min.css">
   <!-- AdminLTE Skins. Choose a skin from the css/skins
        folder instead of downloading all of them to reduce the load. -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/skins/_all-skins.min.css">
-  <link rel="stylesheet" href="<?=site_url()?>/assets/fonts/font-awesome.min.css">
-  <link rel="stylesheet" href="<?=site_url()?>/assets/js/datepicker/datepicker3.css">
-  <link rel="stylesheet" type="text/css" href="<?=site_url()?>/assets/bootstrap-clockpicker.min.css">
-  <link rel="stylesheet" type="text/css" href="<?=site_url()?>/assets/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/skins/_all-skins.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/fonts/font-awesome.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/js/datepicker/datepicker3.css">
+  <link rel="stylesheet" type="text/css" href="https://phase2hair.azurewebsites.net/assets/bootstrap-clockpicker.min.css">
+  <link rel="stylesheet" type="text/css" href="https://phase2hair.azurewebsites.net/assets/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 
@@ -67,7 +67,7 @@
           <?php if(isset($_SESSION['loggedIn'])){?>
             <li class="dropdown user user-menu">
             <a href="<?=site_url()?>admin/dashboard?query=">
-              <img src="<?=site_url()?>/assets/img/avatar2.png" class="user-image" alt="User Image">
+              <img src="https://phase2hair.azurewebsites.net/assets/img/avatar2.png" class="user-image" alt="User Image">
               <span class="hidden-xs"><?=$_SESSION['user']->first_name?> <?=$_SESSION['user']->last_name?></span>
             </a>
             
