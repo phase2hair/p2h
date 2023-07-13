@@ -19,7 +19,7 @@ x<!DOCTYPE html>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   
- <?php 
+ <?php  
  $bg1='https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 ?>
 
