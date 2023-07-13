@@ -695,7 +695,7 @@
             <form action="<?=site_url()?>admin/upload_style_photo/<?=$client->Id?>" method="post" enctype="multipart/form-data">
                 <div class="text-center">
                     <label class="fileName text-center"></label>
-                    <img src="<?=site_url()?>/https://phase2hair.azurewebsites.net/assets/img/camera-way.png" class="user-image" alt="Camera Orientation"><br><br>
+                    <img src="https://phase2hair.azurewebsites.net/assets/img/camera-way.png" class="user-image" alt="Camera Orientation"><br><br>
                   <button onclick="openDialog()" type="button" class="btn btn-block btn-default">1) TAKE A PHOTO</button>
                   <input type="file" ref="fileInput" class="hiddenfile" name="file" />
                   <button type="submit" style="margin-top: 10px" class="btn btn-sm btn-primary btn-block">2) UPLOAD THE PHOTO</button>
@@ -731,7 +731,7 @@
 <!-- jQuery 2.2.3 -->
 <script src="https://phase2hair.azurewebsites.net/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <!-- AdminLTE App -->
 <script src="https://phase2hair.azurewebsites.net/assets/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
