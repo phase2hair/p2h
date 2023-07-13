@@ -21,7 +21,7 @@
 ?>
 
 <?php 
-$bg1=https://phase2hair.azurewebsites.net/assets/img/p2h-mailinglist-bg.jpg';
+$bg1='https://phase2hair.azurewebsites.net/assets/img/p2h-mailinglist-bg.jpg';
 
 ?>
 
