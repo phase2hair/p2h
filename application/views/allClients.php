@@ -25,13 +25,13 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/AdminLTE.min.css">
-  <link rel="stylesheet" href="<?=site_url()?>/assets/fonts/font-awesome.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/fonts/font-awesome.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="<?=site_url()?>/assets/js/fullcalendar/fullcalendar.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/js/fullcalendar/fullcalendar.min.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -51,7 +51,7 @@
     
   </style>
   <?php 
-$bg1=site_url().'assets/img/mar.jpg';
+$bg1='https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 
 ?>
 </head>
@@ -124,9 +124,9 @@ style="background-image: url(<?=$bg1?>); background-repeat: no-repeat;background
 <!-- /.center -->
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/bootstrap.min.js"></script>
 
 <script>
      function setMonth(month) {
