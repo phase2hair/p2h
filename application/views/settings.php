@@ -126,13 +126,13 @@
 <!-- ./wrapper -->
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <!-- AdminLTE App -->
-<script src="<?=site_url()?>/assets/js/app.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<?=site_url()?>/assets/js/demo.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/demo.js"></script>
 </body>
 </html>
