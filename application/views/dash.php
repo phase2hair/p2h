@@ -5,6 +5,8 @@ $bg1='https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 
 $page = $_SERVER['PHP_SELF'];
 $sec = "30";
+var_dump($checked_in);
+
 
 ?>
 
