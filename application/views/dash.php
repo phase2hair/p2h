@@ -1,7 +1,7 @@
 <?php $this->load->view('header')?>
 
 <?php 
-$bg1=https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
+$bg1='https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 
 $page = $_SERVER['PHP_SELF'];
 $sec = "30";
