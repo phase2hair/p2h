@@ -1,7 +1,7 @@
 <?php $this->load->view('header')?>
 
 <?php 
-$bg1=site_url().'assets/img/mar.jpg';
+$bg1=https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 
 $page = $_SERVER['PHP_SELF'];
 $sec = "30";
@@ -245,17 +245,17 @@ $sec = "30";
 
 
 <!-- jQuery 2.2.3 -->
-<script src="<?=site_url()?>/assets/js/jQuery/jquery-2.2.3.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="<?=site_url()?>/assets/js/bootstrap.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/bootstrap.min.js"></script>
 <!-- SlimScroll -->
 <!-- AdminLTE App -->
-<script src="<?=site_url()?>/assets/js/datepicker/bootstrap-datepicker.js"></script>
-<script src="<?=site_url()?>/assets/js/app.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/datepicker/bootstrap-datepicker.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/app.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="<?=site_url()?>/assets/jquery.inputmask.js"></script>
-<script src="<?=site_url()?>/assets/js/demo.js"></script>
-<script type="text/javascript" src="<?=site_url()?>/assets/bootstrap-clockpicker.min.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/jquery.inputmask.js"></script>
+<script src="https://phase2hair.azurewebsites.net/assets/js/demo.js"></script>
+<script type="text/javascript" src="https://phase2hair.azurewebsites.net/assets/bootstrap-clockpicker.min.js"></script>
 <script type="text/javascript">
     $('.clockpicker').clockpicker({
       donetext: 'Done'
@@ -291,7 +291,7 @@ $sec = "30";
       if(selected == null){
           return;
       }
-    $('#image-preview').attr('src', '<?=site_url()?>uploads/'+selected);
+    $('#image-preview').attr('src', 'https://phase2hair.azurewebsites.net/uploads/'+selected);
     $("#viewFileModal").modal()
 }
 
