@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+x<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -119,7 +119,7 @@ function myFunction() {
 
   <div class="text-center" style="margin-top: 50px;">
 
-    <img src="assets/img/logo.png" width="400" height="150">
+    <img src="https://phase2hair.azurewebsites.net/assets/img/logo.png" width="400" height="150">
   </div>
 
   <div>
