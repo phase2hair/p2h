@@ -9,8 +9,8 @@
   <!-- Bootstrap 3.3.6 -->
   <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="<?=site_url()?>/assets/css/AdminLTE.min.css">
-  <link rel="stylesheet" href="<?=site_url()?>/assets/fonts/font-awesome.min.css">
+  <link rel="stylesheet" href="<?=assets_url()?>/assets/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="<?=assets_url()?>/assets/fonts/font-awesome.min.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,7 +20,7 @@
   <![endif]-->
   
  <?php 
- $bg1=site_url().'assets/img/mar.jpg';
+ $bg1=assets_url().'/assets/img/mar.jpg';
 ?>
 
   <style>
