@@ -20,7 +20,7 @@
   <![endif]-->
   
  <?php 
- $bg1=assets_url().'/assets/img/mar.jpg';
+ $bg1='https://phase2hair.azurewebsites.net/assets/img/mar.jpg';
 ?>
 
   <style>
