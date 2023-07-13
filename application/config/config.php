@@ -4,8 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //$config['base_url'] = 'http://localhost/p2h';
 //$config['base_url'] = "http://".$_SERVER['HTTP_HOST'].
 $config['base_url'] = "https://phase2hair.azurewebsites.net/index.php/";
-$config['assets_url'] = "https://phase2hair.azurewebsites.net/";
- 
+$config['assetsw_url'] = "https://phase2hair.azurewebsites.net/";
+$config['assets_url'] = "https://phase2hair.azurewebsites.net";
+
 //str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
 
 $config['index_page'] = '';
