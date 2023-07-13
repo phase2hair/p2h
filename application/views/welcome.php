@@ -7,7 +7,7 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
-  <link rel="stylesheet" href="<?=assets_url()?>/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://phase2hair.azurewebsites.net/assets/css/bootstrap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?=site_url()?>/assets/css/AdminLTE.min.css">
   <link rel="stylesheet" href="<?=site_url()?>/assets/fonts/font-awesome.min.css">
